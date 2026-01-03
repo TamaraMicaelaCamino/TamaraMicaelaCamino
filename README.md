@@ -1,19 +1,13 @@
-<h1 align="center">
-  <b>Hi, I'm Tamara Camino</b>
+<h1 align="center"><b>Hi, I'm Tamara Camino </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+
 
 <br>
 <!-- GIF A LA DERECHA -->
 <img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k5cHV3emk1NTVndWFlazh5a2p2eGkzdGIwZG1pYnc3OWlmeHhxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kf9BTPsP5sYLu/giphy.gif" />
 
-
-
-<!-- ABOUT ME -->
-<p>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
-  <strong>About me</strong>
-</p>
+<img src="https://64.media.tumblr.com/34499cefa1913fcf05455b98d3610b79/2b169c13e35acff4-82/s75x75_c1/33a33810852775192d750971c02cf580fe4c9e12.webp" width="45px">&nbsp;***About me***
 
 <p>
   I'm a Systems Engineering student, halfway through my degree. 
@@ -37,19 +31,17 @@
   👾 Additionally, I create websites about my interests and learn new technologies along the way.
 </p>
 
-<p>
-  📫 Reach out to me at:
-  <a href="mailto:tamaramicaelafuji@gmail.com">tamaramicaelafuji@gmail.com</a>
-</p>
 
 <!-- LIMPIA EL FLOAT DEL GIF -->
 <br clear="right">
 
 <br><br>
 
+
+
 <!-- TECHNOLOGIES -->
 <h3 align="center">My Skills Include</h3>
-
+<h4 align="center">Languages</h4>
 <table align="center">
   <tr>
     <td align="center">
@@ -78,6 +70,10 @@
   </tr>
 </table>
 
+<br><br>
+<h4 align="center">Other Tools and Technologies</h4>
+<br><br>
+
 <h3 align="center">My Contacts</h3>
 <table align="center">
   <tr>
@@ -99,8 +95,12 @@
 
 <br>
 <p align="center">
-  💜 Thanks for visiting my profile!
+  <img src="https://64.media.tumblr.com/d4d054be6cda437399c79847d5ce9603/ee7bed4d66324502-47/s500x750/08d220b10d1d5eece3bbfac48776f4204e330339.gif" 
+       alt="Cool GIF" 
+       width="30">
+  &nbsp;Thanks for visiting my profile!
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GIF">
 </p>
