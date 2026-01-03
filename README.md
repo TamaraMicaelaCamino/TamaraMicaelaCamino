@@ -82,7 +82,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/1010nishant/" target="_blank">
+      <a href="https://www.linkedin.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
       </a>
       <div>LinkedIn</div>
