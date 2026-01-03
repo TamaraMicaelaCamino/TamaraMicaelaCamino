@@ -101,4 +101,7 @@
 <p align="center">
   💜 Thanks for visiting my profile!
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GIF">
+</p>
 
