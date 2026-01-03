@@ -97,8 +97,7 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/d4d054be6cda437399c79847d5ce9603/ee7bed4d66324502-47/s500x750/08d220b10d1d5eece3bbfac48776f4204e330339.gif" 
        alt="Cool GIF" 
-       width="30">
-  &nbsp;Thanks for visiting my profile!
+       width="35">&nbsp;Thanks for visiting my profile!
 </p>
 
 <p align="center">
