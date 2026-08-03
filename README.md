@@ -32,13 +32,22 @@
 <table align="center">
   <tr>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40"><br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40"><br>C
+    </td>
+  </tr>
+</table>
+
+<h4 align="center">Other Tools and Technologies</h4>
+<table align="center">
+  <tr>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="40"><br>Git
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=github" width="40"><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40"><br>Java
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB
@@ -47,17 +56,8 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="40"><br>MySQL
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="40"><br>C
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=eclipse" width="40"><br>Eclipse
     </td>
-  </tr>
-</table>
-
-<h4 align="center">Other Tools and Technologies</h4>
-<table align="center">
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=spring" width="40"><br>Spring Boot
     </td>
