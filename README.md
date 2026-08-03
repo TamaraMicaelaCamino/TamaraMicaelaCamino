@@ -80,8 +80,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <!-- Reemplaza la URL de abajo por tu perfil real de LinkedIn -->
-      <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+      <a href="https://www.linkedin.com/in/tamara-camino" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
       </a>
       <div>LinkedIn</div>
