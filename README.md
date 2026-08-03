@@ -50,13 +50,13 @@
       <img src="https://skillicons.dev/icons?i=github" width="40"><br>GitHub
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="40"><br>MySQL
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=eclipse" width="40"><br>Eclipse
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="40"><br>IntelliJ IDEA
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=spring" width="40"><br>Spring Boot
@@ -72,9 +72,6 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="40"><br>Postman
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40"><br>VS Code
     </td>
   </tr>
 </table>
